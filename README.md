@@ -1,5 +1,7 @@
-## Hi there 👋
+# About me
+I think it is rather unnecessary to fill this file for now
 
+So, I will keep it empty until the good times
 <!--
 **n3rd1t/n3rd1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
